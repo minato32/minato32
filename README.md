@@ -1,95 +1,133 @@
-<h1 align="center">Hi there 👋, I'm Minato</h1>
-<h3 align="center">Front-End Developer focused on building user-friendly interfaces for decentralized applications (dApps)</h3>
+<h1 align="center">Minato — Frontend-Heavy Fullstack Engineer</h1>
+<h3 align="center">Designing scalable systems with a frontend-first mindset</h3>
 
 ---
 
-### 🚀 About Me
-I'm a passionate frontend developer who enjoys crafting performant and user-centric interfaces in the Web3 space. My goal is to make DeFi tools accessible, intuitive, and visually appealing through clean code and thoughtful design.
+## About Me
+
+I am a frontend-heavy fullstack engineer who builds complete, production-ready web applications.
+
+My strength lies in architecting high-performance user interfaces, but I also design backend services, APIs, and data flows that power those experiences.
+
+I focus on building systems that are:
+- Fast
+- Maintainable
+- Scalable
+- User-centric
+- Cleanly architected
 
 ---
 
-### 🌟 Highlights
-- 🎯 **UI Craftsmanship** – Pixel-perfect components with meticulous attention to design.
-- 📱 **Responsive Design** – Seamless experience across devices.
-- 📊 **Data Visualization** – Real-time interactive charts and financial insights.
-- 🧠 **UX-Focused** – Simplifying complexity through thoughtful design.
-- ⚡ **Performance Optimization** – Lazy loading, code-splitting, and speed-driven decisions.
+## What I Bring
+
+### Frontend (Primary Strength)
+
+- Complex dashboards & financial interfaces
+- Real-time data rendering
+- Reusable component systems
+- Scalable frontend architecture
+- Performance optimization & bundle control
+- Thoughtful UX for complex workflows
+
+### Backend & Integration
+
+- REST & GraphQL API design
+- Authentication flows
+- Database integration
+- Server-side rendering
+- Data validation & schema modeling
+- Secure transaction handling
 
 ---
 
-### 🛠️ Development Focus Areas
+## Technical Stack
 
-#### 🔷 Intuitive UI:
-Meticulously designed interfaces for price tracking, liquidity pools, and exposure management. Interactive charts help users visualize real-time market trends and make informed decisions.
+### Frontend
+- React.js
+- Next.js (SSR / SSG)
+- TypeScript
+- Tailwind CSS
+- Component-driven architecture
 
-#### 🔷 Seamless Interactions:
-Enabled minting, burning, and collateralizing directly from the UI. Built streamlined workflows for efficient position management and minimized friction for DeFi users.
+### State & Data Layer
+- React Query
+- Apollo GraphQL
+- WebSockets
+- Optimistic UI patterns
+- API abstraction layers
 
-#### 🔷 Data Clarity & Education:
-Enhanced data visuals to break down complex financial mechanisms. Prioritized education through clear messaging and interface feedback.
+### Backend
+- Node.js
+- Express / API Routes
+- PostgreSQL
+- MongoDB
+- Schema validation
+- Authentication systems
 
-#### 🔷 Performance & Responsiveness:
-- Led the development of responsive UIs using **ReactJS** & **Tailwind CSS**.
-- Optimized performance with **code-splitting**, **lazy loading**, and real-time data fetching.
-- Achieved a **30% reduction** in page load time and **20% boost** in user satisfaction through continuous improvement.
-
----
-
-### ⚙️ Tech Stack
-
-**Frontend:**  
-`ReactJS` · `Tailwind CSS` · `Next.js` (SSG/SSR) · `React Query` · `Apollo GraphQL`
-
-**Blockchain Interaction:**  
-`Ethers.js` · `Subgraphs` · `Web3 Wallets` (MetaMask, WalletConnect)
-
-**Smart Contracts:**  
-`Solidity` (with security best practices)
-
-**Authentication (Optional):**  
-`EIP-712` Signature Auth
-
-**Performance & Deployment:**  
-`Vercel CDN` · `Lazy Loading` · `Code Splitting`
+### Performance & DevOps
+- Code splitting
+- Lazy loading
+- Bundle optimization
+- Vercel deployment
+- Environment configuration
+- Production debugging
 
 ---
 
-### 💼 DeFi Project Experience
+## Engineering Philosophy
 
-- 💹 Built a **Perpetual Futures Trading Platform** with interactive market insights and real-time trade execution.
-- 🔁 Designed a **Derivatives-Based AMM** with precision-tuned interfaces.
-- 🧠 Applied deep UX thinking to simplify complex decentralized finance workflows.
-
----
-
-### 📫 Let's Connect
-
-- 🔗 [Portfolio Website](https://your-portfolio.com) *(Replace with your actual link)*
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🌐 [Blog / Articles](https://medium.com/@yourhandle)
+- Frontend performance is a system decision, not just a UI choice.
+- Every API should exist to simplify the UI.
+- State management must remain predictable as scale increases.
+- Good architecture reduces feature friction.
 
 ---
 
-### 📈 GitHub Stats
+## Selected Work
+
+### Perpetual Trading Platform
+Designed and implemented a real-time trading interface with fullstack integration.
+
+- Built responsive UI with optimized rendering
+- Designed API structure for position and order lifecycle
+- Integrated real-time updates with efficient state handling
+- Reduced initial load time through dynamic imports
+
+---
+
+### Analytics & Derivatives Dashboard
+Developed a data-heavy financial interface powered by backend services.
+
+- Designed modular frontend architecture
+- Structured backend endpoints for predictable data flow
+- Implemented caching strategies for performance
+- Focused on usability under high interaction density
+
+---
+
+## Currently Focused On
+
+- Advanced frontend architecture at scale
+- Fullstack system design
+- High-performance UI for data-intensive applications
+- Building maintainable engineering systems
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minato32&show_icons=true&theme=radical" alt="Minato GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minato32&theme=radical" alt="Minato GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minato32&layout=compact&theme=radical" alt="Minato Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minato32&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minato32&theme=radical" />
 </p>
 
 ---
 
-### 🧠 Fun Facts
-- 🎮 Gamer & Anime Fan
-- ☕ Code runs on caffeine
-- 💡 Always exploring the intersection of UX, code, and crypto
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/bhavya-jain-739631365/
+
 
 ---
 
-> “Build interfaces so intuitive that the blockchain complexity fades away.”
-
+> Build systems where the frontend feels simple because the architecture is strong.
