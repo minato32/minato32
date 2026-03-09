@@ -1,11 +1,11 @@
-<h1 align="center">Minato — Frontend-Heavy Fullstack Engineer</h1>
+<h1 align="center">Minato — Senior Frontend Engineer</h1>
 <h3 align="center">Designing scalable systems with a frontend-first mindset</h3>
 
 ---
 
 ## About Me
 
-I am a frontend-heavy fullstack engineer who builds complete, production-ready web applications.
+I am a senior frontend engineer who builds complete, production-ready web applications.
 
 My strength lies in architecting high-performance user interfaces, but I also design backend services, APIs, and data flows that power those experiences.
 
@@ -28,6 +28,7 @@ I focus on building systems that are:
 - Scalable frontend architecture
 - Performance optimization & bundle control
 - Thoughtful UX for complex workflows
+- handling transaction with gracefull fallbacks and processing states
 
 ### Backend & Integration
 
@@ -41,6 +42,14 @@ I focus on building systems that are:
 ---
 
 ## Technical Stack
+
+### Web3 and Blockchain
+- Ether.js
+- Wagmi
+- Vien
+- Rainbow kit
+- solana
+- etherium
 
 ### Frontend
 - React.js
