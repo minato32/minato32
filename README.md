@@ -1,4 +1,4 @@
-<h1 align="center">Minato — Senior Frontend Engineer</h1>
+<h1 align="center">Senior Frontend Engineer</h1>
 <p align="center">Building scalable, high-performance web applications with a frontend-first mindset</p>
 
 <br/>
