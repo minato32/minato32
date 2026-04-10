@@ -40,7 +40,7 @@
 
 ### What I do
 
-I architect complex frontend systems — trading platforms, analytics dashboards, real-time data interfaces — and build the backend services that power them. I care about performance, clean architecture, and UX that stays simple as products scale.
+I bridge the gap between complex blockchain protocols and intuitive user experiences. My work focuses on building high-performance DeFi interfaces, from MEV-protected trading environments to cross-chain liquidity hubs, ensuring they remain fast, responsive, and accessible. I specialize in architecting modular frontend systems that scale alongside growing product demands while maintaining a rigorous focus on clean code and system performance.
 
 ---
 
@@ -57,10 +57,9 @@ I architect complex frontend systems — trading platforms, analytics dashboards
 ---
 
 ### Selected work
+**[CowSwap](https://github.com/cowprotocol/cowswap)** — Contributed to the settlement explorer and UI components, improving the transparency of MEV-protected batch auctions.
 
-**Perpetual trading platform** — Real-time trading UI with fullstack integration, optimized rendering, and dynamic imports for fast load times.
-
-**Analytics & derivatives dashboard** — Data-heavy financial interface with modular architecture, caching strategies, and high-density interaction design.
+**[Swap-token](https://github.com/minato32/Swap-token)** — Developed a production-grade token swapping interface utilizing **LayerZero V2** for seamless cross-chain liquidity and messaging.
 
 ---
 
@@ -72,7 +71,6 @@ I architect complex frontend systems — trading platforms, analytics dashboards
 
 <br/>
 
-
 <br/>
 
 <div align="center">
@@ -80,11 +78,5 @@ I architect complex frontend systems — trading platforms, analytics dashboards
 </div>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavya-jain-739631365/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align="center"><em>Build systems where the frontend feels simple because the architecture is strong.</em></p>
