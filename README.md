@@ -67,15 +67,16 @@ I architect complex frontend systems — trading platforms, analytics dashboards
 ### Stats
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=minato32&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6347&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=58A6FF&sideNums=58A6FF" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=minato32&hide_border=true&background=0F0F1A&stroke=1E1E3A&ring=A78BFA&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=A78BFA&sideNums=22D3EE" />
 </div>
 
 <br/>
 
+
 <br/>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato32&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6347&area=true&area_color=58A6FF" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=minato32&hide_border=true&bg_color=0F0F1A&color=A78BFA&line=22D3EE&point=F472B6&area=true&area_color=A78BFA" />
 </div>
 
 ---
