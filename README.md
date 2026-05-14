@@ -1,4 +1,5 @@
-<h1 align="center">Senior Frontend Engineer</h1>
+<h1 align="center">Hey, I'm Bhavya Jain</h1>
+<h2 align="center">Senior Frontend Engineer</h2>
 <p align="center">Building scalable, high-performance web applications with a frontend-first mindset</p>
 
 <br/>
